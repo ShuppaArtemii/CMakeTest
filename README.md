@@ -1,2 +1,2 @@
 # CMakeTest
-https://ci.appveyor.com/project/ShuppaArtemii/CMakeTest/settings/badges
+[![Build Status]https://ci.appveyor.com/project/ShuppaArtemii/CMakeTest/settings/badges]
